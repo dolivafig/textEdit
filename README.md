@@ -1,6 +1,6 @@
 # Text Editor Starter Code
 
-The objective is to build 
+The objective is to build an application to create snippets with or without internet and also it can be downloaded into the user's device.
 
 ## USER STORY
 
