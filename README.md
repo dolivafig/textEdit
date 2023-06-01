@@ -38,7 +38,7 @@ THEN I should have proper build scripts for a webpack application</br>
 
 ## The following is a screenshot of the final product:
 
-![alt text](./public/assets/)
+![alt text](./client/src/images/J.A.T.E.png)
 
-## Click [here](https://github.com/dolivafig/employeeTracker) to see the repo on gitHub.
-## Click [here](https://drive.google.com/file/d/16sKyuaUP4yi_tykYlGArWObNKeF1YIwj/view) to view a demo of the app working.
+
+## Click [here](https://github.com/dolivafig/textEdit) to see the repo on gitHub.
